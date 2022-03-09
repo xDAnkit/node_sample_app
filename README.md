@@ -1,1 +1,1 @@
-# node_sample_app
+# NodeJS Sample App

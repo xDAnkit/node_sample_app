@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/xDAnkit/node_sample_app/issues"
   },
-  "homepage": "https://github.com/xDAnkit/node_sample_app#readme"
+  "homepage": "https://github.com/xDAnkit/node_sample_app#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "pm2": "^5.2.0"
+  }
 }

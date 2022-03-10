@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "exec_mode": "cluster",
+      "instances": 2,
+      "script": "./main.js",
+      "name": "node_sample_app",
+      "interpreter": "node"
+    }
+  ]
+}
